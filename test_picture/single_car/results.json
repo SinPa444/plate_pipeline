@@ -1,0 +1,103 @@
+{
+  "generated_at_unix": 1789827399.2385342,
+  "elapsed_seconds": 3.26737904548645,
+  "detections": [
+    {
+      "source": "/home/sina/Desktop/Sina/Projects/Plate_pipeline/alpr/Datasets/plate_on_carcrop/test/images/IMG_20250211_094753_jpg.rf.ea1d433274a18d1d79ca0d1db741767e__c01.jpg",
+      "frame_index": 0,
+      "vehicle_index": 0,
+      "plate_index": 0,
+      "vehicle_box": [
+        0,
+        0,
+        717,
+        657
+      ],
+      "plate_box": [
+        122,
+        408,
+        345,
+        511
+      ],
+      "character_boxes": [
+        [
+          159,
+          435,
+          176,
+          465
+        ],
+        [
+          174,
+          438,
+          195,
+          467
+        ],
+        [
+          198,
+          441,
+          226,
+          473
+        ],
+        [
+          227,
+          446,
+          248,
+          476
+        ],
+        [
+          246,
+          448,
+          265,
+          478
+        ],
+        [
+          265,
+          451,
+          287,
+          483
+        ],
+        [
+          288,
+          461,
+          308,
+          487
+        ],
+        [
+          306,
+          462,
+          327,
+          490
+        ]
+      ],
+      "class_ids": [
+        1,
+        8,
+        24,
+        6,
+        8,
+        4,
+        7,
+        9
+      ],
+      "confidences": [
+        0.9901264905929565,
+        0.9619542956352234,
+        0.9878752827644348,
+        0.9807847738265991,
+        0.9953981041908264,
+        0.9756215810775757,
+        0.9115103483200073,
+        0.9886018633842468
+      ],
+      "plate_ascii": "18 gh 684 | 79",
+      "plate_fa": "۱۸ غ ۶۸۴ ایران ۷۹",
+      "grammar_valid": true,
+      "province_known": true,
+      "detection_complete": true,
+      "vehicle_confidence": 1.0,
+      "plate_confidence": 0.7809035181999207,
+      "character_detection_confidence": 0.8380229324102402,
+      "character_classification_confidence": 0.9739840924739838
+    }
+  ]
+}

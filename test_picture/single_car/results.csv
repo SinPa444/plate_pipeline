@@ -1,0 +1,2 @@
+﻿source,frame_index,vehicle_index,plate_index,plate_ascii,plate_fa,grammar_valid,province_known,detection_complete,vehicle_confidence,plate_confidence,character_detection_confidence,character_classification_confidence
+/home/sina/Desktop/Sina/Projects/Plate_pipeline/alpr/Datasets/plate_on_carcrop/test/images/IMG_20250211_094753_jpg.rf.ea1d433274a18d1d79ca0d1db741767e__c01.jpg,0,0,0,18 gh 684 | 79,۱۸ غ ۶۸۴ ایران ۷۹,True,True,True,1.0000,0.7809,0.8380,0.9740
